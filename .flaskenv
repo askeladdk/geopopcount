@@ -1,0 +1,2 @@
+FLASK_APP=geopopcountd
+FLASK_ENV=development
