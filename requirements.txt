@@ -1,0 +1,12 @@
+args==0.1.0
+click==7.1.2
+clint==0.5.1
+Flask==1.1.2
+georaptor==2.0.3
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pygeohash==1.2.0
+pygtrie==2.4.2
+python-dotenv==0.15.0
+Werkzeug==1.0.1
