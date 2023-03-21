@@ -24,7 +24,7 @@ If you don't want to run Docker, do this:
     pip install -r requirements.txt
     flask run
 
-Note that this runs Flask's builtin HTTP server which is not suited for production. [Read this](https://flask.palletsprojects.com/en/1.1.x/deploying/) for instructions on how to deploy in production. I prefer [uWSGI](https://flask.palletsprojects.com/en/1.1.x/deploying/uwsgi/).
+Note that this runs Flask's builtin HTTP server which is not suited for production. [Read this](https://flask.palletsprojects.com/en/1.1.x/deploying/) for instructions on how to deploy in production.
 
 
 ## Scripts
